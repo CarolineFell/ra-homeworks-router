@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-router/static/css/main.7e2b51ef.chunk.css",
+    "main.js": "/ra-homeworks-router/static/js/main.1a887b6b.chunk.js",
+    "main.js.map": "/ra-homeworks-router/static/js/main.1a887b6b.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-router/static/js/runtime-main.12011570.js",
+    "runtime-main.js.map": "/ra-homeworks-router/static/js/runtime-main.12011570.js.map",
+    "static/js/2.25fd6db0.chunk.js": "/ra-homeworks-router/static/js/2.25fd6db0.chunk.js",
+    "static/js/2.25fd6db0.chunk.js.map": "/ra-homeworks-router/static/js/2.25fd6db0.chunk.js.map",
+    "index.html": "/ra-homeworks-router/index.html",
+    "precache-manifest.d5f4fa139cb3fb0ca7d278d8edae58c1.js": "/ra-homeworks-router/precache-manifest.d5f4fa139cb3fb0ca7d278d8edae58c1.js",
+    "service-worker.js": "/ra-homeworks-router/service-worker.js",
+    "static/css/main.7e2b51ef.chunk.css.map": "/ra-homeworks-router/static/css/main.7e2b51ef.chunk.css.map",
+    "static/js/2.25fd6db0.chunk.js.LICENSE.txt": "/ra-homeworks-router/static/js/2.25fd6db0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12011570.js",
+    "static/js/2.25fd6db0.chunk.js",
+    "static/css/main.7e2b51ef.chunk.css",
+    "static/js/main.1a887b6b.chunk.js"
+  ]
+}
